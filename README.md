@@ -33,7 +33,7 @@ O sistema coleta competências do usuário, compara com requisitos de várias ca
 
 ### Requisitos:
 
-* Python 3.9 ou superior
+* Python 3.8 ou superior
 
 ### Rodar versão com interface gráfica
 
