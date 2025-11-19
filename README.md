@@ -79,14 +79,4 @@ O projeto atende aos requisitos de:
 * Automação e análise de perfis
 * Simulação de ferramenta de orientação profissional
 
----
 
-Se quiser, posso adicionar:
-
-* Capturas de tela
-* Fluxograma
-* Diagrama UML
-* Exportação CSV/Excel
-* Empacotamento em .exe
-
-Só pedir!
