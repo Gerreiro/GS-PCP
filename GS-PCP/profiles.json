@@ -1,0 +1,10 @@
+{
+  "perfis": [
+    {
+      "nome": "Lucas",
+      "competencias": {
+        "logica": 8
+      }
+    }
+  ]
+}

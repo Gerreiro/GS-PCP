@@ -1,0 +1,13 @@
+{
+  "nome": "Marta",
+  "idade": 19,
+  "descricao": "Lutadora",
+  "competencias": [
+    {
+      "nome": "Lutador",
+      "categoria": "tecnica",
+      "nivel": 9.0
+    }
+  ],
+  "criado_em": "2025-11-19T01:11:45.973663"
+}
