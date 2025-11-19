@@ -79,4 +79,6 @@ O projeto atende aos requisitos de:
 * Automação e análise de perfis
 * Simulação de ferramenta de orientação profissional
 
+<img width="1197" height="741" alt="image" src="https://github.com/user-attachments/assets/f08acdbb-13cd-490e-a7fd-410524a9bb42" />
+
 
